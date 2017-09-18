@@ -1,0 +1,23 @@
+{
+  "name": "tachyons-postcss-setup",
+  "version": "1.0.0",
+  "description": "a setup for full control over tachyons variables",
+  "main": "postcss.config.js",
+  "scripts": {
+    "css-watch": "postcss ./css/index.css --output ./style.min.css --watch --config ./postcss.config.js",
+    "css-build": "postcss ./css/index.css --output ./style.min.css --config ./postcss.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "postcss-clean": "^1.1.0",
+    "postcss-cli": "^4.1.1",
+    "postcss-custom-media": "^6.0.0",
+    "postcss-custom-properties": "^6.1.0",
+    "postcss-import": "^11.0.0"
+  },
+  "dependencies": {
+    "tachyons-custom": "^4.6.0"
+  }
+}
