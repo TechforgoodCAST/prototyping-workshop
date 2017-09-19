@@ -11,7 +11,7 @@
 1. Clone the repo or fork it
 2. For each exercise make a new html file named after the exercise e.g. `nav.html` (there's a template `starter.html` file if you'd like to use this)
 3. Either use the default tachyons stylesheet link in your html: `<link rel="stylesheet" href="https://unpkg.com/tachyons@4.8.0/css/tachyons.min.css"/>`
-4. Or if you're more of a design control freak you can use the custom setup in the `tachyons-postcss-setup` (details on how to use this here)
+4. Or if you're more of a design control freak you can use the custom setup in the `tachyons-postcss-setup` (details on how to use this [here](https://github.com/TechforgoodCAST/prototyping-workshop/tree/master/tachyons-workshop/tachyons-postcss-setup))
 5. Make some beautiful components!
 
 ## Tips and Tricks
