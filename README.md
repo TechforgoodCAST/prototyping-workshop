@@ -1,7 +1,6 @@
 # Prototyping Workshop
 
-1 day workshop on getting prototypes in front of your clients fast!
-
+One day workshop on getting prototypes in front of your clients fast!
 
 ### Structure of the Day
 
