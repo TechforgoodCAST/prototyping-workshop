@@ -1,3 +1,8 @@
+### Objectives
+
+* To gain a high level understanding of how all the separate elements of a web-app fit together
+* To have your own boilerplate
+
 ### Your mission should you choose to accept it
 
 * Pair up
