@@ -55,6 +55,14 @@ This is a great summary of what flexbox can do: https://css-tricks.com/snippets/
 
 ## Let's make some components!
 
+### Button
+
+Make a button that looks a bit like this:
+
+<img width="240" alt="screen shot 2017-09-21 at 20 20 05" src="https://user-images.githubusercontent.com/14013616/30714315-4818bf48-9f0a-11e7-9974-de18941983d8.png">
+
+(tip: if you're using the `<button>` html element it has a few rather ugly default styles (user agent styles), so you'll want to set the border to none and give it a slight border-radius for the round edges)
+
 ### Navbar
 
 Make a navbar that looks like this:
