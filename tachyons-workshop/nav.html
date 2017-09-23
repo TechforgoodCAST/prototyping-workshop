@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tachyons Workshop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+
+    <!-- default tachyons stylesheet  -->
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.8.0/css/tachyons.min.css"/>
+    <!--
+      any extra css you need to add
+      NB - if you'd like to use the custom tachyons setup there's already a _custom.css file in ./tachyons-postcss-setup/css so add your styles there and remove the line below
+    -->
+    <link rel="stylesheet" href="./custom.css">
+
+    <!--
+      NB - if you'd like the custom setup,
+      cd into the tachyons-postcss-setup dir and run `npm install && npm run css-watch`
+      then remove the stylesheet above and uncomment the stylesheet link below
+      and remove the two stylesheet links above
+    -->
+
+    <!-- custom tachyons stylesheet link  -->
+    <!-- <link rel="stylesheet" href="./tachyons-postcss-setup/style.min.css"/> -->
+  </head>
+  <body>
+
+    <nav class="bg-green flex justify-between items-center shadow-1">
+      <img src="img/bulb.png" class="w3 pa3" alt="bulb">
+      <ul class="white list pa4">
+        <li class="dib mh3 hover-yellow">How it works</li>
+        <li class="dib mh3 hover-yellow">Careers</li>
+        <li class="dib mh3 hover-yellow">Contact</li>
+      </ul>
+    </nav>
+
+  </body>
+</html>
